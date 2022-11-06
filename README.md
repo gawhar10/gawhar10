@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gawhar10
 - 👀 I’m interested in tech related stuffs.
-- 🌱 I’m currently learning javascript.
+- 🌱 I’m currently learning front-end web development.
 <!---- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
